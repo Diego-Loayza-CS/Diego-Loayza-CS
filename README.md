@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Diego Loayza</h1>
 
 # 💫 About Me:
-I am a freshmen computer science student at BYU, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a freshman computer science student at BYU, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
